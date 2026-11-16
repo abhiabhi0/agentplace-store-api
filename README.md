@@ -4,7 +4,7 @@ A deterministic, agent-ready Go REST service built for the **Agentplace** store 
 
 ## Live Deployment & Agent Links
 
-- **Live Agentplace Store Agent (Luna Model):** `https://sl0fkwsc6v7w.run.agentplace.io/`
+- **Live Agentplace Store Agent (Luna Model):** [https://sl0fkwsc6v7w.run.agentplace.io/](https://sl0fkwsc6v7w.run.agentplace.io/)
   *(Pre-configured with server-side credentials via Agentplace Environment settings — no API key required to test in browser)*
 - **Live Hosted API Base URL:** [https://agentplace-store-api.onrender.com](https://agentplace-store-api.onrender.com)
 - **Live Health Check Endpoint:** [https://agentplace-store-api.onrender.com/health](https://agentplace-store-api.onrender.com/health)
